@@ -25,7 +25,7 @@ def apply_frame(image, frame_path):
 
 def main():
     st.title("Custom Profile For LOCUS 2024")
-    st.text("Made with passion by Krishant Timilsina")
+    st.text("Created with passion by Krishant Timilsina")
 
     # Upload image through Streamlit
     uploaded_file = st.file_uploader(
